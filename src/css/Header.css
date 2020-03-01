@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat|Open+Sans|Oswald|Raleway|Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Montserrat', 'Roboto' ;
+
+}
+.nav_section{
+    color:white;
+    width:100vw;
+    padding: 1vw 1vh;
+}
+.nav_section a{
+    color:white;
+    text-decoration: none;
+    /* padding-left: 1vw; */
+}
+.logo{
+    float: left;
+}
+.navigation{
+    text-align: center;
+    padding: 1vh;
+    float: right;
+}
+.a_container{
+    padding:1vw
+}
+
+.btn-orange{
+    background: orange;
+}

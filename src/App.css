@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+}
+.topSection{
+  width:100vw;
+}
+.nav_section{
+  width:100vw;
+  flex-direction: row;
+}
+.title{
+  float:right;
+}
+.navigation{
+
+}
